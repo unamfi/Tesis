@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  16 JUN 2014 21:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  17 JUN 2014 10:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -870,14 +870,14 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<Latex/Classes/unam_azul.png, id=397, 79.7379pt x 94.4328pt>
+<Latex/Classes/unam_azul.png, id=410, 79.7379pt x 94.4328pt>
 File: Latex/Classes/unam_azul.png Graphic file (type png)
 
 <use Latex/Classes/unam_azul.png>
 Package pdftex.def Info: Latex/Classes/unam_azul.png used on input line 42.
 (pdftex.def)             Requested size: 62.46663pt x 73.97733pt.
 
-<Latex/Classes/fi_azul.jpg, id=399, 79.7379pt x 94.4328pt>
+<Latex/Classes/fi_azul.jpg, id=412, 79.7379pt x 94.4328pt>
 File: Latex/Classes/fi_azul.jpg Graphic file (type jpg)
 
 <use Latex/Classes/fi_azul.jpg>
@@ -991,8 +991,8 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 (spanish)                faked small caps on input line 3.
 
 [9]
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
  [10])
 \tf@toc=\write5
 \openout5 = `tesis.toc'.
@@ -1028,11 +1028,7 @@ LaTeX Info: Redefining \% on input line 1.
 Cap\'{\i }tulo 1.
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 45.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 54.
+(blindtext)                 on input line 59.
 
 [1
 
@@ -1040,24 +1036,19 @@ Package blindtext Warning: spanish not defined, using English instead.
 ]
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 62.
+(blindtext)                 on input line 65.
 
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 70.
+(blindtext)                 on input line 74.
 
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 79.
+(blindtext)                 on input line 80.
 
-LaTeX Info: Redefining \. on input line 79.
-LaTeX Info: Redefining \% on input line 79.
-[2]
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 85.
-
-)
+LaTeX Info: Redefining \. on input line 80.
+LaTeX Info: Redefining \% on input line 80.
+[2])
 LaTeX Info: Redefining \. on input line 71.
 LaTeX Info: Redefining \% on input line 71.
  [3]
@@ -1079,26 +1070,26 @@ Cap\'{\i }tulo 3.
 Cap\'{\i }tulo 4.
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 34.
+(blindtext)                 on input line 44.
 
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 40.
+(blindtext)                 on input line 50.
 
 [9]
 
 Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 46.
+(blindtext)                 on input line 56.
 
-LaTeX Info: Redefining \. on input line 54.
-LaTeX Info: Redefining \% on input line 54.
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
 [10]
 Cap\'{\i }tulo 5.
 [11
 
 ]
-LaTeX Info: Redefining \. on input line 126.
-LaTeX Info: Redefining \% on input line 126.
+LaTeX Info: Redefining \. on input line 135.
+LaTeX Info: Redefining \% on input line 135.
  [12])
 
 Package blindtext Warning: spanish not defined, using English instead.
@@ -1242,7 +1233,7 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
 
-<Apendice1/figs/planta.jpg, id=694, 301.125pt x 301.125pt>
+<Apendice1/figs/planta.jpg, id=709, 301.125pt x 301.125pt>
 File: Apendice1/figs/planta.jpg Graphic file (type jpg)
 
 <use Apendice1/figs/planta.jpg>
@@ -1316,10 +1307,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 12970 strings out of 493315
- 189363 string characters out of 6137904
- 319370 words of memory out of 5000000
- 15946 multiletter control sequences out of 15000+600000
+ 12976 strings out of 493315
+ 189475 string characters out of 6137904
+ 319374 words of memory out of 5000000
+ 15949 multiletter control sequences out of 15000+600000
  21901 words of font info for 87 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  43i,15n,48p,559b,1265s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1337,10 +1328,10 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
 Output written on /Users/Julio/Github/Tesis/.texpadtmp/tesis.pdf (53 pages, 611
-784 bytes).
+321 bytes).
 PDF statistics:
- 850 PDF objects out of 1000 (max. 8388607)
- 770 compressed objects within 8 object streams
- 170 named destinations out of 1000 (max. 500000)
- 800 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 865 PDF objects out of 1000 (max. 8388607)
+ 785 compressed objects within 8 object streams
+ 173 named destinations out of 1000 (max. 500000)
+ 824 words of extra memory for PDF output out of 10000 (max. 10000000)
 
