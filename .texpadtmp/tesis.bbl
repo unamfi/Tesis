@@ -1,18 +1,3 @@
-\begin{thebibliography}{1}
-
-\bibitem{latex}
-{\sc Leslie Lamport}.
-\newblock {\em {\LaTeX:} {A} Document Preparation System}.
-\newblock Addison-Wesley, 1986.
-
-\bibitem{prime-number-theorem}
-{\sc Charles Louis Xavier~Joseph de~la Vall{\'e}e~Poussin}.
-\newblock A strong form of the prime number theorem, 19th century.
-
-\bibitem{WinNT}
-{\sc MultiMedia LLC}.
-\newblock
-  \href{http://web.archive.org/web/20080207010024/http://www.808multimedia.com/winnt/kernel.htm}{{\bf
-  {MS Windows NT} Kernel Description}}, 1999.
+\begin{thebibliography}{}
 
 \end{thebibliography}

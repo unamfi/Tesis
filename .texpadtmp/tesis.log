@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 MAR 2015 15:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 MAR 2015 15:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -871,14 +871,14 @@ Package grfext Info: Graphics extension search list:
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-<Latex/Classes/unam_azul.png, id=132, 79.7379pt x 94.4328pt>
+<Latex/Classes/unam_azul.png, id=72, 79.7379pt x 94.4328pt>
 File: Latex/Classes/unam_azul.png Graphic file (type png)
 
 <use Latex/Classes/unam_azul.png>
 Package pdftex.def Info: Latex/Classes/unam_azul.png used on input line 42.
 (pdftex.def)             Requested size: 62.46663pt x 73.97733pt.
 
-<Latex/Classes/fi_azul.jpg, id=134, 79.7379pt x 94.4328pt>
+<Latex/Classes/fi_azul.jpg, id=74, 79.7379pt x 94.4328pt>
 File: Latex/Classes/fi_azul.jpg Graphic file (type jpg)
 
 <use Latex/Classes/fi_azul.jpg>
@@ -929,7 +929,7 @@ Overfull \vbox (247.22734pt too high) detected at line 42
 ame identifier (name{page.I}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.6 \end{dedication}
+l.3 \end{dedication}
                      [1
 
 ])
@@ -943,12 +943,7 @@ l.4 \begin{acknowledgements}
                              [2
 
 
-]
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 8.
-
-[3
+] [3
 
 ])
 \openout2 = `Declaracion/Declaracion.aux'.
@@ -956,7 +951,8 @@ Package blindtext Warning: spanish not defined, using English instead.
  (./Declaracion/Declaracion.tex [4
 
 
-] [5
+]
+[5
 
 ])
 \openout2 = `Resumen/Resumen.aux'.
@@ -991,22 +987,20 @@ Package spanish Warning: Replacing `OT1/cmr/bx/sc' by
 Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
 (spanish)                faked small caps on input line 3.
 
-[9])
+)
 \tf@toc=\write5
 \openout5 = `tesis.toc'.
 
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [10] (/Users/Julio/Tesis/.texpadtmp/tesis.lof
+ [9] [10
+
+] (/Users/Julio/Tesis/.texpadtmp/tesis.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lof=\write6
 \openout6 = `tesis.lof'.
 
- [11
-
-] [12
+ [11] [12
 
 ]
 (/Users/Julio/Tesis/.texpadtmp/tesis.lot
@@ -1024,224 +1018,69 @@ LaTeX Info: Redefining \% on input line 1.
 
 (./Capitulo1/Introduccion.tex
 Cap\'{\i }tulo 1.
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 23.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 30.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 36.
-
-[1
+) [1
 
 
 ]
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 42.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 48.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 55.
-
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
-[2]
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 62.
-
-)
-LaTeX Info: Redefining \. on input line 71.
-LaTeX Info: Redefining \% on input line 71.
- [3]
 \openout2 = `Capitulo2/Marco_teorico.aux'.
 
- (./Capitulo2/Marco_teorico.tex [4
+ (./Capitulo2/Marco_teorico.tex [2
 
 
 
 ]
 Cap\'{\i }tulo 2.
-[5] [6
+) [3]
+\openout2 = `Capitulo3/Diseno_del_experimento.aux'.
+
+ (./Capitulo3/Diseno_del_experimento.tex [4
+
+
 
 ]
 Cap\'{\i }tulo 3.
-)
+) [5]
+\openout2 = `Capitulo4/Resultados.aux'.
 
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 72.
-
-[7]
-\openout2 = `Capitulo3/Diseno_del_experimento.aux'.
-
- (./Capitulo3/Diseno_del_experimento.tex [8
+ (./Capitulo4/Resultados.tex [6
 
 
 
 ]
 Cap\'{\i }tulo 4.
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 12.
-
-)
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 73.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 73.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 73.
-
-[9]
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 73.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 73.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 73.
-
-LaTeX Info: Redefining \. on input line 73.
-LaTeX Info: Redefining \% on input line 73.
-[10]
-\openout2 = `Capitulo4/Resultados.aux'.
-
- (./Capitulo4/Resultados.tex
-Cap\'{\i }tulo 5.
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 6.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 6.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 6.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 6.
-
-[11
-
-
-
-]
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 6.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 6.
-
-)
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 74.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 74.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 74.
-
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
-[12]
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 74.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 74.
-
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 74.
-
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
-[13]
+) [7]
 \openout2 = `Capitulo5/Conclusiones.aux'.
 
- (./Capitulo5/Conclusiones.tex [14
+ (./Capitulo5/Conclusiones.tex [8
 
 
 
 ]
-Cap\'{\i }tulo 6.
-)
-
-Package blindtext Warning: spanish not defined, using English instead.
-(blindtext)                 on input line 75.
-
-[15]
+Cap\'{\i }tulo 5.
+) [9]
 \openout2 = `Apendice1/Apendice1.aux'.
 
- (./Apendice1/Apendice1.tex [16
-
-
-
-]
-Ap\'{e}ndice A.
-[17]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 55.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
-
-<Apendice1/figs/planta.jpg, id=329, 301.125pt x 301.125pt>
-File: Apendice1/figs/planta.jpg Graphic file (type jpg)
-
-<use Apendice1/figs/planta.jpg>
-Package pdftex.def Info: Apendice1/figs/planta.jpg used on input line 101.
-(pdftex.def)             Requested size: 150.56212pt x 150.56212pt.
-LaTeX Info: Redefining \. on input line 110.
-LaTeX Info: Redefining \% on input line 110.
- [18])
-LaTeX Info: Redefining \. on input line 81.
-LaTeX Info: Redefining \% on input line 81.
- [19 <./Apendice1/figs/planta.jpg>]
-(/Users/Julio/Tesis/.texpadtmp/tesis.bbl
+ (./Apendice1/Apendice1.tex) (/Users/Julio/Tesis/.texpadtmp/tesis.bbl
 (/Users/Julio/Tesis/.texpadtmp/tesis.brf)
 \tf@brf=\write8
 \openout8 = `tesis.brf'.
 
- [20
+ [10
 
 
-])
+
+\FN@pp@footnotehinttrue 
+
+
+]
+
+Package natbib Warning: Empty `thebibliography' environment on input line 3.
+
+)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
- [21]
+ [11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
-
-(/Users/Julio/Tesis/.texpadtmp/tesis.aux
+ (/Users/Julio/Tesis/.texpadtmp/tesis.aux
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
 
@@ -1268,31 +1107,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
  ) 
 Here is how much of TeX's memory you used:
- 12926 strings out of 493117
- 188061 string characters out of 6135433
- 323301 words of memory out of 5000000
- 15995 multiletter control sequences out of 15000+600000
- 21901 words of font info for 87 fonts, out of 8000000 for 9000
+ 12488 strings out of 493117
+ 183401 string characters out of 6135433
+ 315102 words of memory out of 5000000
+ 15608 multiletter control sequences out of 15000+600000
+ 11850 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,15n,48p,559b,1265s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,11n,45p,559b,443s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></
-usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
-r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
-l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
-exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb>
-Output written on /Users/Julio/Tesis/.texpadtmp/tesis.pdf (37 pages, 583228 byt
+usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
+r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/
+local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on /Users/Julio/Tesis/.texpadtmp/tesis.pdf (27 pages, 482668 byt
 es).
 PDF statistics:
- 434 PDF objects out of 1000 (max. 8388607)
- 374 compressed objects within 4 object streams
- 88 named destinations out of 1000 (max. 500000)
- 272 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 254 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
+ 47 named destinations out of 1000 (max. 500000)
+ 147 words of extra memory for PDF output out of 10000 (max. 10000000)
 
