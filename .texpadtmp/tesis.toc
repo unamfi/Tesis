@@ -66,38 +66,4 @@
 \contentsline {section}{\numberline {A.6}Ejemplo de figuras}{24}{section.Alph1.6}
 \contentsline {section}{\numberline {A.7}Matrices and other arrays in \LaTeX }{25}{section.Alph1.7}
 \contentsline {section}{\numberline {A.8}Introduction}{25}{section.Alph1.8}
-\contentsline {chapter}{\numberline {B}Apendice Matem\IeC {\'a}tico}{27}{appendix.Alph2}
-\contentsline {section}{\numberline {B.1}Matrices}{27}{section.Alph2.1}
-\contentsline {section}{\numberline {B.2}Algebra Lineal}{27}{section.Alph2.2}
-\contentsline {section}{\numberline {B.3}Procesos estocasticos}{27}{section.Alph2.3}
-\contentsline {section}{\numberline {B.4}C\IeC {\'a}lculo Vectorial}{27}{section.Alph2.4}
-\contentsline {chapter}{\numberline {C}Apendice de Inteligencia Artificial}{29}{appendix.Alph3}
-\contentsline {section}{\numberline {C.1}Redes Neuronales}{29}{section.Alph3.1}
-\contentsline {subsection}{\numberline {C.1.1}Perceptron}{29}{subsection.Alph3.1.1}
-\contentsline {subsection}{\numberline {C.1.2}Redes neuronales multicapa}{29}{subsection.Alph3.1.2}
-\contentsline {section}{\numberline {C.2}Agentes}{29}{section.Alph3.2}
-\contentsline {section}{\numberline {C.3}Algoritmos geneticos/evolutivos}{29}{section.Alph3.3}
-\contentsline {subsection}{\numberline {C.3.1}NSGA-II}{29}{subsection.Alph3.3.1}
-\contentsline {section}{\numberline {C.4}Cadenas de Markov}{29}{section.Alph3.4}
-\contentsline {section}{\numberline {C.5}Inteligencia de colmena}{29}{section.Alph3.5}
-\contentsline {section}{\numberline {C.6}An\IeC {\'a}lisis de sentimiento}{29}{section.Alph3.6}
-\contentsline {section}{\numberline {C.7}Rationality}{29}{section.Alph3.7}
-\contentsline {chapter}{\numberline {D}Apendice de Game Theory}{31}{appendix.Alph4}
-\contentsline {section}{\numberline {D.1}Game Theory}{32}{section.Alph4.1}
-\contentsline {section}{\numberline {D.2}Types of games}{32}{section.Alph4.2}
-\contentsline {subsection}{\numberline {D.2.1}Cooperative or non-cooperative}{32}{subsection.Alph4.2.1}
-\contentsline {subsection}{\numberline {D.2.2}Symmetric and asymmetric}{32}{subsection.Alph4.2.2}
-\contentsline {subsection}{\numberline {D.2.3}Zero-sum and non-zero-sum}{32}{subsection.Alph4.2.3}
-\contentsline {subsection}{\numberline {D.2.4}Simultaneous and sequential}{32}{subsection.Alph4.2.4}
-\contentsline {subsection}{\numberline {D.2.5}Perfect information and imperfect information}{32}{subsection.Alph4.2.5}
-\contentsline {subsection}{\numberline {D.2.6}Combinatorial games}{32}{subsection.Alph4.2.6}
-\contentsline {subsection}{\numberline {D.2.7}Infinite long games}{32}{subsection.Alph4.2.7}
-\contentsline {subsection}{\numberline {D.2.8}Discrete and continuous games}{32}{subsection.Alph4.2.8}
-\contentsline {subsection}{\numberline {D.2.9}Differential games}{32}{subsection.Alph4.2.9}
-\contentsline {subsection}{\numberline {D.2.10}Many-player and population games}{32}{subsection.Alph4.2.10}
-\contentsline {subsection}{\numberline {D.2.11}Stochastic outcomes (and relation to other fields)}{32}{subsection.Alph4.2.11}
-\contentsline {subsection}{\numberline {D.2.12}Metagames}{32}{subsection.Alph4.2.12}
-\contentsline {section}{\numberline {D.3}Collective intentionality}{32}{section.Alph4.3}
-\contentsline {chapter}{\numberline {E}Apendice de m\IeC {\'e}todos bayesianos en finanzas}{33}{appendix.Alph5}
-\contentsline {section}{\numberline {E.1}Conceptos.(Incluir indice)}{33}{section.Alph5.1}
-\contentsline {chapter}{Bibliograf\'{\i }a}{35}{appendix*.9}
+\contentsline {chapter}{Bibliograf\'{\i }a}{27}{appendix*.9}
