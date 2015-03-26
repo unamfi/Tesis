@@ -1,102 +1,33 @@
 \select@language {spanish}
-\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {xiii}}{chapter*.5}
-\contentsline {chapter}{\'{I}ndice de tablas}{\es@scroman {xv}}{chapter*.6}
+\contentsline {chapter}{\'{I}ndice de figuras}{\es@scroman {xi}}{chapter*.5}
+\contentsline {chapter}{\'{I}ndice de tablas}{\es@scroman {xiii}}{chapter*.6}
 \contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Presentaci\IeC {\'o}n}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Objetivo}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Motivaci\IeC {\'o}n}{1}{section.1.3}
+\contentsline {section}{\numberline {1.3}Motivaci\IeC {\'o}n}{2}{section.1.3}
 \contentsline {section}{\numberline {1.4}Planteamiento del problema}{2}{section.1.4}
 \contentsline {section}{\numberline {1.5}Metodolog\IeC {\'\i }a}{2}{section.1.5}
-\contentsline {section}{\numberline {1.6}Contribuciones}{2}{section.1.6}
+\contentsline {section}{\numberline {1.6}Contribuciones}{3}{section.1.6}
 \contentsline {section}{\numberline {1.7}Estructura de la tesis}{3}{section.1.7}
 \contentsline {chapter}{\numberline {2}Marco te\IeC {\'o}rico}{5}{chapter.2}
-\contentsline {chapter}{\numberline {3}Definiciones}{7}{chapter.3}
-\contentsline {section}{\numberline {3.1}Black Scholes}{7}{section.3.1}
-\contentsline {section}{\numberline {3.2}Bayes}{7}{section.3.2}
-\contentsline {section}{\numberline {3.3}Meta-algoritmos}{7}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Algoritmo evolutivo ( Meta algoritmo ) - Non Sorted Genetic Algorithm II}{7}{subsection.3.3.1}
-\contentsline {subsubsection}{\numberline {3.3.1.1}Codificador}{7}{subsubsection.3.3.1.1}
-\contentsline {subsubsection}{\numberline {3.3.1.2}Decodificador}{7}{subsubsection.3.3.1.2}
-\contentsline {section}{\numberline {3.4}Algoritmos}{7}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Red neuronal con retropropagaci\IeC {\'o}n}{7}{subsection.3.4.1}
-\contentsline {chapter}{\numberline {4}El juego}{9}{chapter.4}
-\contentsline {section}{\numberline {4.1}El juego (Reto actinver)}{9}{section.4.1}
-\contentsline {section}{\numberline {4.2}Bolsa}{9}{section.4.2}
-\contentsline {section}{\numberline {4.3}Broker}{9}{section.4.3}
-\contentsline {section}{\numberline {4.4}Mercado}{9}{section.4.4}
-\contentsline {section}{\numberline {4.5}Agente}{10}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Propiedades y metodos del agente}{10}{subsection.4.5.1}
-\contentsline {section}{\numberline {4.6}Mundo real}{10}{section.4.6}
-\contentsline {section}{\numberline {4.7}Utilidad Horizonte Infinito}{10}{section.4.7}
-\contentsline {section}{\numberline {4.8}Instrumentos financieros: Acciones y otros...}{10}{section.4.8}
-\contentsline {chapter}{\numberline {5}Bolsa mexicana de valores}{11}{chapter.5}
-\contentsline {section}{\numberline {5.1} Bolsa mexicana de valores }{11}{section.5.1}
-\contentsline {section}{\numberline {5.2} Mercado }{11}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1} Etapas del mercado }{11}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2} Posturas en la bolsa mexicana de valores }{11}{subsection.5.2.2}
-\contentsline {subsubsection}{\numberline {5.2.2.1} Limitada }{12}{subsubsection.5.2.2.1}
-\contentsline {subsubsection}{\numberline {5.2.2.2} A mercado pura }{12}{subsubsection.5.2.2.2}
-\contentsline {subsubsection}{\numberline {5.2.2.3} Mercado con protecci\'on }{12}{subsubsection.5.2.2.3}
-\contentsline {subsubsection}{\numberline {5.2.2.4} Al cierre ( Etapa 1 y 2 ) }{12}{subsubsection.5.2.2.4}
-\contentsline {subsubsection}{\numberline {5.2.2.5} Mejor postura limitada }{12}{subsubsection.5.2.2.5}
-\contentsline {subsubsection}{\numberline {5.2.2.6} Precio medio }{12}{subsubsection.5.2.2.6}
-\contentsline {subsubsection}{\numberline {5.2.2.7} Precio Promedio del dia }{12}{subsubsection.5.2.2.7}
-\contentsline {subsection}{\numberline {5.2.3} Mercado }{12}{subsection.5.2.3}
-\contentsline {subsubsection}{\numberline {5.2.3.1} Segmentos del mercado }{12}{subsubsection.5.2.3.1}
-\contentsline {subsection}{\numberline {5.2.4} Opciones }{12}{subsection.5.2.4}
-\contentsline {subsubsection}{\numberline {5.2.4.1} Call option }{13}{subsubsection.5.2.4.1}
-\contentsline {subsubsection}{\numberline {5.2.4.2} Put option }{13}{subsubsection.5.2.4.2}
-\contentsline {subsubsection}{\numberline {5.2.4.3} Go short }{13}{subsubsection.5.2.4.3}
-\contentsline {subsection}{\numberline {5.2.5} Go long }{13}{subsection.5.2.5}
-\contentsline {subsection}{\numberline {5.2.6} Stop order }{13}{subsection.5.2.6}
-\contentsline {chapter}{\numberline {6}Dise\IeC {\~n}o del experimento}{15}{chapter.6}
-\contentsline {section}{\numberline {6.1}Secci\IeC {\'o}n}{15}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Subsecci\IeC {\'o}n}{15}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Subsecci\IeC {\'o}n}{15}{subsection.6.1.2}
-\contentsline {chapter}{\numberline {7}An\IeC {\'a}lisis de Resultados}{17}{chapter.7}
-\contentsline {section}{\numberline {7.1}Resultados}{17}{section.7.1}
-\contentsline {section}{\numberline {7.2}Comparaci\IeC {\'o}n con otros algoritmos}{18}{section.7.2}
-\contentsline {chapter}{\numberline {8}Conclusiones}{21}{chapter.8}
-\contentsline {chapter}{\numberline {A}Apendice ejemplos de \textlatin {\LaTeX }}{23}{appendix.Alph1}
-\contentsline {section}{\numberline {A.1}\leavevmode {\color {Azul}Ejemplo de secci\IeC {\'o}n en color azul}}{23}{section.Alph1.1}
-\contentsline {section}{\numberline {A.2}Ejemplo de tablas}{23}{section.Alph1.2}
-\contentsline {section}{\numberline {A.3}Ejemplo de MATLAB (seg\IeC {\'u}n Jes\IeC {\'u}s)}{24}{section.Alph1.3}
-\contentsline {section}{\numberline {A.4}Ejemplo de citas}{24}{section.Alph1.4}
-\contentsline {section}{\numberline {A.5}Ejemplo de pseudoc\IeC {\'o}digo}{24}{section.Alph1.5}
-\contentsline {section}{\numberline {A.6}Ejemplo de figuras}{24}{section.Alph1.6}
-\contentsline {section}{\numberline {A.7}Matrices and other arrays in \textlatin {\LaTeX }}{25}{section.Alph1.7}
-\contentsline {chapter}{\numberline {B}Apendice Matem\IeC {\'a}tico}{27}{appendix.Alph2}
-\contentsline {section}{\numberline {B.1}Matrices}{27}{section.Alph2.1}
-\contentsline {section}{\numberline {B.2}Algebra Lineal}{27}{section.Alph2.2}
-\contentsline {section}{\numberline {B.3}Procesos estocasticos}{27}{section.Alph2.3}
-\contentsline {section}{\numberline {B.4}C\IeC {\'a}lculo Vectorial}{27}{section.Alph2.4}
-\contentsline {chapter}{\numberline {C}Apendice de Inteligencia Artificial}{29}{appendix.Alph3}
-\contentsline {section}{\numberline {C.1}Redes Neuronales}{29}{section.Alph3.1}
-\contentsline {subsection}{\numberline {C.1.1}Perceptron}{29}{subsection.Alph3.1.1}
-\contentsline {subsection}{\numberline {C.1.2}Redes neuronales multicapa}{29}{subsection.Alph3.1.2}
-\contentsline {section}{\numberline {C.2}Agentes}{29}{section.Alph3.2}
-\contentsline {section}{\numberline {C.3}Algoritmos geneticos/evolutivos}{29}{section.Alph3.3}
-\contentsline {subsection}{\numberline {C.3.1}NSGA-II}{29}{subsection.Alph3.3.1}
-\contentsline {section}{\numberline {C.4}Cadenas de Markov}{29}{section.Alph3.4}
-\contentsline {section}{\numberline {C.5}Inteligencia de colmena}{29}{section.Alph3.5}
-\contentsline {section}{\numberline {C.6}An\IeC {\'a}lisis de sentimiento}{29}{section.Alph3.6}
-\contentsline {section}{\numberline {C.7}Rationality}{29}{section.Alph3.7}
-\contentsline {chapter}{\numberline {D}Apendice de Game Theory}{31}{appendix.Alph4}
-\contentsline {section}{\numberline {D.1}Game Theory}{32}{section.Alph4.1}
-\contentsline {section}{\numberline {D.2}Types of games}{32}{section.Alph4.2}
-\contentsline {subsection}{\numberline {D.2.1}Cooperative or non-cooperative}{32}{subsection.Alph4.2.1}
-\contentsline {subsection}{\numberline {D.2.2}Symmetric and asymmetric}{32}{subsection.Alph4.2.2}
-\contentsline {subsection}{\numberline {D.2.3}Zero-sum and non-zero-sum}{32}{subsection.Alph4.2.3}
-\contentsline {subsection}{\numberline {D.2.4}Simultaneous and sequential}{32}{subsection.Alph4.2.4}
-\contentsline {subsection}{\numberline {D.2.5}Perfect information and imperfect information}{32}{subsection.Alph4.2.5}
-\contentsline {subsection}{\numberline {D.2.6}Combinatorial games}{32}{subsection.Alph4.2.6}
-\contentsline {subsection}{\numberline {D.2.7}Infinite long games}{32}{subsection.Alph4.2.7}
-\contentsline {subsection}{\numberline {D.2.8}Discrete and continuous games}{32}{subsection.Alph4.2.8}
-\contentsline {subsection}{\numberline {D.2.9}Differential games}{32}{subsection.Alph4.2.9}
-\contentsline {subsection}{\numberline {D.2.10}Many-player and population games}{32}{subsection.Alph4.2.10}
-\contentsline {subsection}{\numberline {D.2.11}Stochastic outcomes (and relation to other fields)}{32}{subsection.Alph4.2.11}
-\contentsline {subsection}{\numberline {D.2.12}Metagames}{32}{subsection.Alph4.2.12}
-\contentsline {section}{\numberline {D.3}Collective intentionality}{32}{section.Alph4.3}
-\contentsline {chapter}{\numberline {E}Apendice de m\IeC {\'e}todos bayesianos en finanzas}{33}{appendix.Alph5}
-\contentsline {section}{\numberline {E.1}Conceptos.(Incluir indice)}{33}{section.Alph5.1}
-\contentsline {chapter}{Bibliograf\'{\i }a}{35}{appendix*.9}
+\contentsline {chapter}{\numberline {3}Chapter title}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Section}{7}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Subsection}{7}{subsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.1}Sub-subsection}{7}{subsubsection.3.1.1.1}
+\contentsline {chapter}{\numberline {4}Dise\IeC {\~n}o del experimento}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}Secci\IeC {\'o}n}{9}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Subsecci\IeC {\'o}n}{9}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Subsecci\IeC {\'o}n}{9}{subsection.4.1.2}
+\contentsline {chapter}{\numberline {5}An\IeC {\'a}lisis de Resultados}{11}{chapter.5}
+\contentsline {section}{\numberline {5.1}Resultados}{11}{section.5.1}
+\contentsline {section}{\numberline {5.2}Comparaci\IeC {\'o}n con otros algoritmos}{12}{section.5.2}
+\contentsline {chapter}{\numberline {6}Conclusiones}{15}{chapter.6}
+\contentsline {chapter}{\numberline {A}Apendice ejemplos de \LaTeX }{17}{appendix.Alph1}
+\contentsline {section}{\numberline {A.1}\leavevmode {\color {Azul}Ejemplo de secci\IeC {\'o}n en color azul}}{17}{section.Alph1.1}
+\contentsline {section}{\numberline {A.2}Ejemplo de tablas}{17}{section.Alph1.2}
+\contentsline {section}{\numberline {A.3}Ejemplo de MATLAB (seg\IeC {\'u}n Jes\IeC {\'u}s)}{18}{section.Alph1.3}
+\contentsline {section}{\numberline {A.4}Ejemplo de citas}{18}{section.Alph1.4}
+\contentsline {section}{\numberline {A.5}Ejemplo de pseudoc\IeC {\'o}digo}{18}{section.Alph1.5}
+\contentsline {section}{\numberline {A.6}Ejemplo de figuras}{18}{section.Alph1.6}
+\contentsline {section}{\numberline {A.7}Matrices and other arrays in \LaTeX }{19}{section.Alph1.7}
+\contentsline {chapter}{Bibliograf\'{\i }a}{21}{appendix*.9}
