@@ -64,38 +64,39 @@
 \BOOKMARK [1][]{section.Alph1.5}{A.5 Ejemplo de pseudoc\363digo}{appendix.Alph1}% 64
 \BOOKMARK [1][]{section.Alph1.6}{A.6 Ejemplo de figuras}{appendix.Alph1}% 65
 \BOOKMARK [1][]{section.Alph1.7}{A.7 Matrices and other arrays in LaTeX}{appendix.Alph1}% 66
-\BOOKMARK [0][]{appendix.Alph2}{B Apendice Matem\341tico}{}% 67
-\BOOKMARK [1][]{section.Alph2.1}{B.1 Matrices}{appendix.Alph2}% 68
-\BOOKMARK [1][]{section.Alph2.2}{B.2 Algebra Lineal}{appendix.Alph2}% 69
-\BOOKMARK [1][]{section.Alph2.3}{B.3 Procesos estocasticos}{appendix.Alph2}% 70
-\BOOKMARK [1][]{section.Alph2.4}{B.4 C\341lculo Vectorial}{appendix.Alph2}% 71
-\BOOKMARK [0][]{appendix.Alph3}{C Apendice de Inteligencia Artificial}{}% 72
-\BOOKMARK [1][]{section.Alph3.1}{C.1 Redes Neuronales}{appendix.Alph3}% 73
-\BOOKMARK [2][]{subsection.Alph3.1.1}{C.1.1 Perceptron}{section.Alph3.1}% 74
-\BOOKMARK [2][]{subsection.Alph3.1.2}{C.1.2 Redes neuronales multicapa}{section.Alph3.1}% 75
-\BOOKMARK [1][]{section.Alph3.2}{C.2 Agentes}{appendix.Alph3}% 76
-\BOOKMARK [1][]{section.Alph3.3}{C.3 Algoritmos geneticos/evolutivos}{appendix.Alph3}% 77
-\BOOKMARK [2][]{subsection.Alph3.3.1}{C.3.1 NSGA-II}{section.Alph3.3}% 78
-\BOOKMARK [1][]{section.Alph3.4}{C.4 Cadenas de Markov}{appendix.Alph3}% 79
-\BOOKMARK [1][]{section.Alph3.5}{C.5 Inteligencia de colmena}{appendix.Alph3}% 80
-\BOOKMARK [1][]{section.Alph3.6}{C.6 An\341lisis de sentimiento}{appendix.Alph3}% 81
-\BOOKMARK [1][]{section.Alph3.7}{C.7 Rationality}{appendix.Alph3}% 82
-\BOOKMARK [0][]{appendix.Alph4}{D Apendice de Game Theory}{}% 83
-\BOOKMARK [1][]{section.Alph4.1}{D.1 Game Theory}{appendix.Alph4}% 84
-\BOOKMARK [1][]{section.Alph4.2}{D.2 Types of games}{appendix.Alph4}% 85
-\BOOKMARK [2][]{subsection.Alph4.2.1}{D.2.1 Cooperative or non-cooperative}{section.Alph4.2}% 86
-\BOOKMARK [2][]{subsection.Alph4.2.2}{D.2.2 Symmetric and asymmetric}{section.Alph4.2}% 87
-\BOOKMARK [2][]{subsection.Alph4.2.3}{D.2.3 Zero-sum and non-zero-sum}{section.Alph4.2}% 88
-\BOOKMARK [2][]{subsection.Alph4.2.4}{D.2.4 Simultaneous and sequential}{section.Alph4.2}% 89
-\BOOKMARK [2][]{subsection.Alph4.2.5}{D.2.5 Perfect information and imperfect information}{section.Alph4.2}% 90
-\BOOKMARK [2][]{subsection.Alph4.2.6}{D.2.6 Combinatorial games}{section.Alph4.2}% 91
-\BOOKMARK [2][]{subsection.Alph4.2.7}{D.2.7 Infinite long games}{section.Alph4.2}% 92
-\BOOKMARK [2][]{subsection.Alph4.2.8}{D.2.8 Discrete and continuous games}{section.Alph4.2}% 93
-\BOOKMARK [2][]{subsection.Alph4.2.9}{D.2.9 Differential games}{section.Alph4.2}% 94
-\BOOKMARK [2][]{subsection.Alph4.2.10}{D.2.10 Many-player and population games}{section.Alph4.2}% 95
-\BOOKMARK [2][]{subsection.Alph4.2.11}{D.2.11 Stochastic outcomes \(and relation to other fields\)}{section.Alph4.2}% 96
-\BOOKMARK [2][]{subsection.Alph4.2.12}{D.2.12 Metagames}{section.Alph4.2}% 97
-\BOOKMARK [1][]{section.Alph4.3}{D.3 Collective intentionality}{appendix.Alph4}% 98
-\BOOKMARK [0][]{appendix.Alph5}{E Apendice de m\351todos bayesianos en finanzas}{}% 99
-\BOOKMARK [1][]{section.Alph5.1}{E.1 Conceptos.\(Incluir indice\)}{appendix.Alph5}% 100
-\BOOKMARK [0][]{appendix*.9}{Bibliograf\355a}{}% 101
+\BOOKMARK [1][]{section.Alph1.8}{A.8 Introduction}{appendix.Alph1}% 67
+\BOOKMARK [0][]{appendix.Alph2}{B Apendice Matem\341tico}{}% 68
+\BOOKMARK [1][]{section.Alph2.1}{B.1 Matrices}{appendix.Alph2}% 69
+\BOOKMARK [1][]{section.Alph2.2}{B.2 Algebra Lineal}{appendix.Alph2}% 70
+\BOOKMARK [1][]{section.Alph2.3}{B.3 Procesos estocasticos}{appendix.Alph2}% 71
+\BOOKMARK [1][]{section.Alph2.4}{B.4 C\341lculo Vectorial}{appendix.Alph2}% 72
+\BOOKMARK [0][]{appendix.Alph3}{C Apendice de Inteligencia Artificial}{}% 73
+\BOOKMARK [1][]{section.Alph3.1}{C.1 Redes Neuronales}{appendix.Alph3}% 74
+\BOOKMARK [2][]{subsection.Alph3.1.1}{C.1.1 Perceptron}{section.Alph3.1}% 75
+\BOOKMARK [2][]{subsection.Alph3.1.2}{C.1.2 Redes neuronales multicapa}{section.Alph3.1}% 76
+\BOOKMARK [1][]{section.Alph3.2}{C.2 Agentes}{appendix.Alph3}% 77
+\BOOKMARK [1][]{section.Alph3.3}{C.3 Algoritmos geneticos/evolutivos}{appendix.Alph3}% 78
+\BOOKMARK [2][]{subsection.Alph3.3.1}{C.3.1 NSGA-II}{section.Alph3.3}% 79
+\BOOKMARK [1][]{section.Alph3.4}{C.4 Cadenas de Markov}{appendix.Alph3}% 80
+\BOOKMARK [1][]{section.Alph3.5}{C.5 Inteligencia de colmena}{appendix.Alph3}% 81
+\BOOKMARK [1][]{section.Alph3.6}{C.6 An\341lisis de sentimiento}{appendix.Alph3}% 82
+\BOOKMARK [1][]{section.Alph3.7}{C.7 Rationality}{appendix.Alph3}% 83
+\BOOKMARK [0][]{appendix.Alph4}{D Apendice de Game Theory}{}% 84
+\BOOKMARK [1][]{section.Alph4.1}{D.1 Game Theory}{appendix.Alph4}% 85
+\BOOKMARK [1][]{section.Alph4.2}{D.2 Types of games}{appendix.Alph4}% 86
+\BOOKMARK [2][]{subsection.Alph4.2.1}{D.2.1 Cooperative or non-cooperative}{section.Alph4.2}% 87
+\BOOKMARK [2][]{subsection.Alph4.2.2}{D.2.2 Symmetric and asymmetric}{section.Alph4.2}% 88
+\BOOKMARK [2][]{subsection.Alph4.2.3}{D.2.3 Zero-sum and non-zero-sum}{section.Alph4.2}% 89
+\BOOKMARK [2][]{subsection.Alph4.2.4}{D.2.4 Simultaneous and sequential}{section.Alph4.2}% 90
+\BOOKMARK [2][]{subsection.Alph4.2.5}{D.2.5 Perfect information and imperfect information}{section.Alph4.2}% 91
+\BOOKMARK [2][]{subsection.Alph4.2.6}{D.2.6 Combinatorial games}{section.Alph4.2}% 92
+\BOOKMARK [2][]{subsection.Alph4.2.7}{D.2.7 Infinite long games}{section.Alph4.2}% 93
+\BOOKMARK [2][]{subsection.Alph4.2.8}{D.2.8 Discrete and continuous games}{section.Alph4.2}% 94
+\BOOKMARK [2][]{subsection.Alph4.2.9}{D.2.9 Differential games}{section.Alph4.2}% 95
+\BOOKMARK [2][]{subsection.Alph4.2.10}{D.2.10 Many-player and population games}{section.Alph4.2}% 96
+\BOOKMARK [2][]{subsection.Alph4.2.11}{D.2.11 Stochastic outcomes \(and relation to other fields\)}{section.Alph4.2}% 97
+\BOOKMARK [2][]{subsection.Alph4.2.12}{D.2.12 Metagames}{section.Alph4.2}% 98
+\BOOKMARK [1][]{section.Alph4.3}{D.3 Collective intentionality}{appendix.Alph4}% 99
+\BOOKMARK [0][]{appendix.Alph5}{E Apendice de m\351todos bayesianos en finanzas}{}% 100
+\BOOKMARK [1][]{section.Alph5.1}{E.1 Conceptos.\(Incluir indice\)}{appendix.Alph5}% 101
+\BOOKMARK [0][]{appendix*.9}{Bibliograf\355a}{}% 102
